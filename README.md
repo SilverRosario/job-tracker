@@ -1,0 +1,1 @@
+This is a short project utilizing Claude AI to built a Job Application tracker that utilizes FASTAPI and React
